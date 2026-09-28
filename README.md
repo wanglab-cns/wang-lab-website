@@ -5,6 +5,6 @@
 
   # wanglab-cns's Website
 
-  Visit **[wanglab-cns.github.io/wang-lab-website](https://wanglab-cns.github.io/wang-lab-website)** 🚀
+  Visit **[wanglab-cns.github.io](https://wanglab-cns.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
