@@ -1,11 +1,8 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Kevin Wang
+image: images/kwang.jpg
 role: principal-investigator
-affiliation: University of Colorado
-aliases:
-  - J. Smith
-  - J Smith
+affiliation: UHN
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
