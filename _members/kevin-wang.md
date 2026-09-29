@@ -4,8 +4,7 @@ image: images/kwang.jpg
 role: principal-investigator
 affiliation: PMH
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  orcid: 0000-0001-6292-3087
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.

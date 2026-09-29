@@ -3,7 +3,7 @@
 
 # Wang Lab Website
 
-An engaging 1-3 sentence description of your lab.
+UNDER CONSTRUCTION
 
 {% include section.html %}
 
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our lab is growing! We welcome perspective students, postdocs, and collaborators to reach our and learn about open positions.
 
 {%
   include button.html
