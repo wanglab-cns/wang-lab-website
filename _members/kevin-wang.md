@@ -1,6 +1,6 @@
 ---
 name: Kevin Wang
-image: images/kwang.jpg
+image: images/kwang.png
 role: principal-investigator
 affiliation: PMH
 links:
