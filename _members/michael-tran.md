@@ -1,10 +1,12 @@
 ---
 name: Michael Tran
-image: images/mtran.jpg
+image: images/mtran.png
 role: programmer
 affiliation: PMH
 links:
   github: mtran-code
+  email: michaelcao-anh.tran@uhn.ca
 ---
 
-Michael Tran received his Bachelor of Medical Sciences at the University of Western Ontario with an Honours Specialization in Medical Bioinformatics. His undergraduate thesis at Western worked on characterizing evolutionary selection of surface proteins in HIV and other human viruses using machine learning. He is currently working on pharmacogenomics projects including curating drug response gene signatures with RNA-seq and multi-omics data for chemotherapy and targeted therapy across pan-cancer, and tumour microenvironment characterization of cholangiocarconima with neoadjuvant treatment using durvalumab with gemcitabine and cisplatin. He is interested in the intersection of computer science and biological sciences, artificial intelligence applications in medicine, as well as a hobby in UI/UX, graphic design, and art.
+Michael Tran is a programmer working with the Wang and Haibe-Kains labs at Princess Margaret Cancer Centre, University Health Network. He holds a Bachelor of Medical Sciences with an Honours Specialization in Medical Bioinformatics. His work combines bioinformatics and software development to build reproducible analysis workflows and research tools for cancer research.
+In the Wang Lab, Michael supports single-cell analyses of glioma and the development of a reference atlas spanning brain development. He also contributes to PredictRx, which evaluates gene-expression signatures associated with treatment response. His broader work includes pharmacogenomic data curation and software for annotating, integrating and analysing biomedical datasets.
