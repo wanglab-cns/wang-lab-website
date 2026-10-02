@@ -13,6 +13,7 @@ Our lab is growing! We welcome perspective students, postdocs, and collaborators
 
 {% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
 <br />
+{% include list.html data="members" component="portrait" filter="role == 'scientific_associate'" %}
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 {% include list.html data="members" component="portrait" filter="role == 'programmer'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}

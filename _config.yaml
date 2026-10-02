@@ -8,8 +8,9 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@wanglab-cns.com
+  email: KevinXin.Wang@uhn.ca
   orcid: 0000-0001-6292-3087
+  google-scholar: 1234567890
   github: wanglab-cns
   twitter: KevinXinWang
 

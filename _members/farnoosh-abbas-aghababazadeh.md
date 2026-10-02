@@ -1,13 +1,13 @@
 ---
 name: Farnoosh Abbas Aghababazadeh
 image: images/fabbas.jpg
-role: postdoc
+role: scientific_associate
 affiliation: PMH
 links:
-  github: RibaA
   email: farnoosh.abbasaghababazadeh@uhn.ca
+  github: RibaA
   google-scholar: gZ41gQsAAAAJ
-  linkedin: https://www.linkedin.com/in/farnoosh-abbas-aghababazadeh-34512a48/
+  linkedin: farnoosh-abbas-aghababazadeh-34512a48
   orcid: 0000-0001-6427-9379
 ---
 Farnoosh earned her Ph.D. in Mathematics with an emphasis in Biostatistics from the University of Ottawa, where her doctoral research focused on developing statistical methods for multiple hypothesis testing and local false discovery rate estimation, with applications to high-dimensional biological data and genome-wide association studies. She also holds an M.Sc. in Mathematical Statistics and a B.Sc. in Statistics from Shiraz University, Iran.

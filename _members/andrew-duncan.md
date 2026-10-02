@@ -4,10 +4,11 @@ image: images/aduncan.jpg
 role: postdoc
 affiliation: PMH
 links:
+  email: andrew.duncan@uhn.ca
   github: agduncan94
   google-scholar: HeIP2F0AAAAJ
+  linkedin: andrew-duncan-phd-91702864
   home-page: https://agduncan94.github.io/
-  email: andrew.duncan@uhn.ca
   orcid: 0000-0001-6983-3201
 ---
 
